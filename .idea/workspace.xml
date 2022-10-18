@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f340fc1-84dd-4d1e-964a-9549a8f1b082" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/objects/BookingApisObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/objects/LoginApisObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7f340fc1-84dd-4d1e-964a-9549a8f1b082" name="Changes" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +33,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_directory_selection": "D:/Testing/AllCode/final-project-submission-api/src/test/java",
-    "last_opened_file_path": "D:/Testing/AllCode/final-project-submission-api/src/main/java/objects"
+    "last_opened_file_path": "D:/Testing/AllCode/final-project-submission-api/src/main/java/objects",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -46,6 +44,9 @@
       <recent name="D:\Testing\AllCode\final-project-submission-api\src\main\java\objects" />
       <recent name="D:\Testing\AllCode\final-project-submission-api\src\test" />
       <recent name="D:\Testing\AllCode\final-project-submission-api\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="objects" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664524253235</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1665818145565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665818145565</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
